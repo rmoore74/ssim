@@ -5,6 +5,6 @@ Simplify your spark submit process without the need to assemble your code into a
 
 Contain your dependencies and SparkSubmit paramaters in a simple JSON format in the root of your folder and simply direct SSim to your target .jar file.
 
-Store JSON in `ssim.manifest` in root of Scala project.
+Store JSON in `ssim.manifest` in target/scala-[version] of Scala project.
 
 Work in progress.
