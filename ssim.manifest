@@ -1,0 +1,12 @@
+{
+    "spark_bin_dir": "/home/hadoop/spark/bin",
+    "class_name": "SparkClassName",
+    "default_master_setting": "local[2]",
+    "deploy_mode": "",
+    "conf": "",
+    "dependencies": [
+        "/home/hadoop/scala-projects/SparkProjectDirectory/dependencies/kafka_2.10-0.8.2.1.jar",
+        "/home/hadoop/scala-projects/SparkProjectDirectory/dependencies/spark-streaming-kafka_2.10-1.6.0.jar",
+        "/home/hadoop/scala-projects/SparkProjectDirectory/dependencies/metrics-core-2.2.0.jar"
+    ]
+}
